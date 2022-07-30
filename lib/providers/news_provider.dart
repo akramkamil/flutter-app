@@ -1,6 +1,6 @@
 import 'package:news_application/models/news.dart';
 
-class Newprovider {
+class Newsprovider {
   List <News> allNews= [
     News(imgUrl: 'https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/gsfc_20220615_2022-148800-2_003.jpg?itok=ugr8Ef5v',
         title: 'NASA Goddard Center Director Shares Plans to Retire',
