@@ -43,5 +43,5 @@ This is important because climate change is accelerating Earth’s water cycle. 
 Since its debut, Landsat has amassed over 10 million images. These images, also called scenes, show current snapshots of land and coasts, but pair with images of years past and they also reveal changes through time – glaciers slowly disappearing, or urban spaces sprawling across the landscape.
 
 These scenes and time series have myriad applications around the globe: Hydrologists use them to track how rivers change; ecologists use them to determine the extent of deforestation; farmers and agricultural organizations use them to analyze crop health.''')
-  ]
+  ];
 }
